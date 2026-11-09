@@ -1,5 +1,0 @@
-[functions.ipgeo]
-verify_jwt = false
-
-[functions.phishing-detect]
-verify_jwt = false
