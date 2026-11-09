@@ -1,0 +1,13 @@
+{
+  "projectId": "71512026",
+  "functions": {
+    "ipgeo": {
+      "hasChanged": false,
+      "hash": "54bc5200e098e3df05f04deff8967a7ee57aefa933179c02355d154aeeb290c6"
+    },
+    "phishing-detect": {
+      "hasChanged": false,
+      "hash": "c190affd3bf814d3e070efec761a8f513689bd491982d93979568931d1fc2a5a"
+    }
+  }
+}
